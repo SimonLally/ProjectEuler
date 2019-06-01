@@ -1,10 +1,6 @@
 //
 //  main.cpp
 //  Project Euler Challenge 3 - Largest Prime Factor
-//
-//  Created by Simon Lally on 2/8/16.
-//  Copyright © 2016 Simon Lally. All rights reserved.
-//
 
 /*          ** INSTRUCTIONS **
  The prime factors of 13195 are 5, 7, 13 and 29.
