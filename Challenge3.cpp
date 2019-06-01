@@ -19,9 +19,6 @@ int main() {
     stack<int> primeFactor;
     int biggestFactor;
     
-    //cout<<"Enter an integer ";
-    //cin>>x;
-    
     // Loop through entire number starting at 2
     for (int i = 2; i <= x; i++) {
         // So long as x is divisable evenly by the current index it is a prime factor
